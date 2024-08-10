@@ -8,4 +8,3 @@ def hw():
 main()
 
 #This is conventional for using main() in python 
-#
